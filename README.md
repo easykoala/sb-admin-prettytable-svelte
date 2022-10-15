@@ -1,4 +1,4 @@
-# SB-Admin-Svelte
+# SB-Admin-PrettyTable-Svelte
 
 A dashboard made by using Svelte and Sapper, inspired from SB-Admin Dashboard.
 Add a PrettyTable component, including pagination, search bar, table row operation buttons, etc. 
