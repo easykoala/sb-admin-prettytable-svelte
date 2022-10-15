@@ -15,14 +15,14 @@ A picture ![图片](https://user-images.githubusercontent.com/3862129/195967772-
 
 ### Clone
 
-    git clone git@github.com:GeekyAnts/sb-admin-svelte.git
+    git clone git@github.com:easykoala/sb-admin-prettytable-svelte.git
 
 ### Running the project
 
 However you get the code, you can install dependencies and run the project in development mode with:
 
 ```bash
-cd sb-admin-svelte
+cd sb-admin-prettytable-svelte
 npm install # or yarn
 npm run dev
 ```
