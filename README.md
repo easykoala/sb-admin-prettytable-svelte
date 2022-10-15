@@ -9,6 +9,8 @@ Add a PrettyTable component, including pagination, search bar, table row operati
 
 Check the live demo **[here](https://objective-benz-e53b25.netlify.com/)**
 
+A picture **[here](https://github.com/easykoala/sb-admin-prettytable-svelte/blob/main/static/prettytable.png)**
+
 ## Getting started
 
 ### Clone
